@@ -1,0 +1,27 @@
+nohup: ignoring input
+user_nums: 7928 item_nums: 29346
+(spent time: 0.7725059986114502s)
+recall@10:[0.068864], ndcg@10:[0.056780], recall@20:[0.113081], ndcg@20:[0.075122]
+(spent time: 0.6270637512207031s)
+recall@10:[0.063101], ndcg@10:[0.054664], recall@20:[0.095598], ndcg@20:[0.068524]
+(spent time: 0.7356257438659668s)
+recall@10:[0.062887], ndcg@10:[0.053064], recall@20:[0.100344], ndcg@20:[0.068608]
+(spent time: 0.689504861831665s)
+recall@10:[0.056786], ndcg@10:[0.049680], recall@20:[0.094032], ndcg@20:[0.065389]
+(spent time: 0.5582566261291504s)
+recall@10:[0.069066], ndcg@10:[0.055972], recall@20:[0.107747], ndcg@20:[0.072179]
+
+/root/miniconda3/envs/torch-1.9/bin/python3.8 /home/yjh/Model-1/gnn-basemodel/LightGCN/lightgcn.py
+user_nums: 7928 item_nums: 29346
+(spent time: 1.312835693359375s)
+recall@10:[0.071602], ndcg@10:[0.060324], recall@20:[0.118457], ndcg@20:[0.079732]
+(spent time: 1.0853428840637207s)
+recall@10:[0.066593], ndcg@10:[0.058048], recall@20:[0.108569], ndcg@20:[0.075497]
+(spent time: 1.2532198429107666s)
+recall@10:[0.069591], ndcg@10:[0.059329], recall@20:[0.109310], ndcg@20:[0.075999]
+(spent time: 0.9519639015197754s)
+recall@10:[0.060019], ndcg@10:[0.052763], recall@20:[0.104168], ndcg@20:[0.070649]
+(spent time: 0.7263143062591553s)
+recall@10:[0.066727], ndcg@10:[0.055410], recall@20:[0.112421], ndcg@20:[0.074655]
+
+Process finished with exit code 0
